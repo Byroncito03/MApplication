@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Telefono">Telefono de usuario</string>
+    <string name="Contraseña">Contraseña de Usuario</string>
+    <string name="Titulo">Titulo Formulario</string>
+    <string name="Gmail">Gmail Usuario</string>
+</resources>

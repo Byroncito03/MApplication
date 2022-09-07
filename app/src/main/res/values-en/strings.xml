@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Telefono">phone</string>
+    <string name="Contraseña">pasworld</string>
+    <string name="Titulo">title</string>
+    <string name="Gmail">E-mail</string>
+</resources>
